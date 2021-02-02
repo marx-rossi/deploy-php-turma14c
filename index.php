@@ -278,9 +278,9 @@
       var myChart = new Chart(ctx, {
         type: 'line',
         data: {
-          labels: ["Sunday", "Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday"],
+          labels: ["QI Albert Einstein", "QI Charles Darwin", "QI Isaac Newton", "QI Karl Marx", "QI Marx Rossi", "QI Médio do Brasileiro", "QI Médio Mundial"],
           datasets: [{
-            data: [15339, 21345, 18483, 24003, 23489, 24092, 12034],
+            data: [160, 172, 215, 181, 234, 122, 126],
             lineTension: 0,
             backgroundColor: 'transparent',
             borderColor: '#007bff',
